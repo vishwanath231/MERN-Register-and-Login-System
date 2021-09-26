@@ -1,12 +1,5 @@
 <h2 align="center">Login | SignUp Application</h2>
 
-**CRUD**
-```
-C -> Create
-R -> Read
-U -> Update/Edit
-D -> Delete
-```
 
 I complete create Login | SignUp application. If you have interset in this project. you can download it, if download this project and extract the files, open any code editor.
 Open the file path in terminal run this command.
